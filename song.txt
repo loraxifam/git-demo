@@ -3,11 +3,6 @@ To the end of the world, to some place to get far, far away
 Where the evil give in and has to lose face
 But the rest warm their hands by the fireplace
 Like at the dawn of time - people in dugouts and caves
-<<<<<<< HEAD
+
 ----------------------
 No walls, no houses
-=======
-No walls, no houses
-
-new line
->>>>>>> e19504e8bf7b0ee9bee0caa96cf1d02e08d67587
